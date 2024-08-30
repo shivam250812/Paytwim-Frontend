@@ -4,7 +4,7 @@ import { Balance } from "../components/Balance";
 import { Users } from "../components/Users";
 import axios from "axios";
 
-import { Button } from "../src/components/Button.js";
+import { Button } from "../components/Button";
 
 import { useNavigate } from "react-router-dom";
 
